@@ -1,4 +1,4 @@
-Hello, i am AltheaIX and i'm interesting at making project and publish it on github. I am glad if my projects is helped lot of people.
+Hello, i am AltheaIX and i'm interesting at making project and publish it on github. I am glad if my projects are helped lot of people.
 
 Projects:
 - FoMana (Simple Food and Beverages Website)
